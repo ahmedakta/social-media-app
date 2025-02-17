@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295622193776",
+    "project_id": "social-app-8905b",
+    "storage_bucket": "social-app-8905b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295622193776:android:a0c9945bd5d8b8fe993ab5",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWS48Ruqh5kiLNCJIV0P6xjX8Y2oFsMZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295622193776:android:89ed60b5deaa4fd8993ab5",
+        "android_client_info": {
+          "package_name": "com.example.test_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWS48Ruqh5kiLNCJIV0P6xjX8Y2oFsMZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
